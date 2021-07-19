@@ -1,0 +1,4 @@
+{
+    // this is for the intelisense
+    "exclude": ["node_modules"]
+}
